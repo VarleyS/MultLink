@@ -1,5 +1,7 @@
 # MultLink
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/VarleyS/MultLink/blob/main/LICENSE)
+
 # Sobre o projeto
 
 https://varleys.github.io/MultLink/
