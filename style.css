@@ -32,7 +32,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
     background-size: cover;
     background-repeat: no-repeat;
     background-color: rgb(209, 246, 255);
-    background-image: url(/src/img/cartao.png);
+    background-image: url(cartao.png);
 }
 
 .container-logo {
